@@ -1,7 +1,21 @@
 {
-    "name": "scientific-calculator",
-    "version": "1.0.0",
-    "description": "A web-based scientific calculator",
-    "license": "MIT"
+  "name": "scientific-calculator",
+  "version": "1.0.0",
+  "description": "A web-based scientific calculator",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "true"
+  },
+  "keywords": [
+    "\"calculator\""
+  ],
+  "author": "aditya",
+  "dependencies": {
+    "nan": "^2.18.0"
   }
-  
+}

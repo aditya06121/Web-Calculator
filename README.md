@@ -3,6 +3,7 @@ This project builds a web-based scientific calculator using Node.js for the back
 
 ## Project Roadmap
 - [x] Deciding on technologies to be used & prototyping
+- [ ] Writing tests
 - [ ] Developing HTML Structure
 - [ ] CSS Styling and assets
 - [ ] Javascript integration
@@ -26,6 +27,13 @@ Perform basic arithmetic operations (addition, subtraction, multiplication, divi
 Handle advanced mathematical functions (trigonometry, logarithms, exponentiation)
 Perform complex operations using parentheses and order of operations
 Display results with clear formatting and precision control.
+
+### Testing
+Since I'm planning for a test driven approach, writing tests becomes crucial for the development of all the individual parts of this project.
+#### Testing Frameworks used:
+1. gtest for cpp testing
+2. jest for node testing
+3. cypress for frontend-backend integration testing
 
 ### Getting Started:
 
