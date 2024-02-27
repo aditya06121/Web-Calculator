@@ -1,23 +1,21 @@
 # Scientific Calculator Web App
-This project builds a web-based scientific calculator using Node.js for the backend and HTML/CSS/JS for the frontend. C++ is used for computationally intensive calculations to ensure high performance.
+This project builds a web-based scientific calculator using Node.js for the backend and HTML/CSS/JS for the frontend. NODE.js is used for mathematical calculations
 
 ## Project Roadmap
-- [x] Deciding on technologies to be used & prototyping
-- [ ] Writing tests
-- [ ] Developing HTML Structure
-- [ ] CSS Styling and assets
-- [ ] Javascript integration
-- [ ] NODE.js api for communication
-- [ ] C++ Development
-- [ ] Integrating C++ & NODE.js
-- [ ] Full Frontend-Backend Integration
-- [ ] Testing
+1. Deciding on technologies to be used & prototyping
+2. Writing tests
+3. Developing HTML Structure
+4. CSS Styling and assets
+5. Javascript integration
+6. NODE.js api for communication
+7. Full Frontend-Backend Integration
+8. Testing
 
 ### Technologies:
 
 ##### Frontend: HTML, CSS, JavaScript
 
-##### Backend: Node.js, C++, Scientific libraries
+##### Backend: Node.js, Scientific libraries
 
 ##### Communication: RESTful API
 
@@ -31,9 +29,8 @@ Display results with clear formatting and precision control.
 ### Testing
 Since I'm planning for a test driven approach, writing tests becomes crucial for the development of all the individual parts of this project.
 #### Testing Frameworks used:
-1. gtest for cpp testing
-2. jest for node testing
-3. cypress for frontend-backend integration testing
+1. jest for node testing
+2. cypress for frontend-backend integration testing
 
 ### Getting Started:
 
