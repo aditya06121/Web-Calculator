@@ -12,6 +12,29 @@
     <h1>Web-Calculator </h1>
     <p class="subtext">Developed by Aditya Raj</p>
 </div>
+<main class="ui">
+    <input type="text" id="inputbox" placeholder="Calculate Here" readonly>
+</main>
+<div class="keys">
+<button onclick="append_to_display('1')">1</button>
+<button onclick="append_to_display('2')">2</button>
+<button onclick="append_to_display('3')">3</button>
+<button onclick="append_to_display('+')">+</button>
+<button onclick="append_to_display('4')">4</button>
+<button onclick="append_to_display('5')">5</button>
+<button onclick="append_to_display('6')">6</button>
+<button onclick="append_to_display('-')">-</button>
+<button onclick="append_to_display('7')">7</button>
+<button onclick="append_to_display('8')">8</button>
+<button onclick="append_to_display('9')">9</button>
+<button onclick="append_to_display('/')">/</button>
+<button onclick="append_to_display('0')">0</button>
+<button onclick="append_to_display('.')">.</button>
+<button onclick="append_to_display('*')">*</button>
+<button onclick="calculate()">=</button>
+<button onclick="clear_screen()">C</button>
+</div>
+
 
 
 
@@ -22,5 +45,6 @@
         <li><a href="https://www.linkedin.com/in/aditya-raj-904a93272/">Follow Me!</a></li>
     </ul>
 </footer>
+<script src="./assets/main.js"></script>
 </body>
 </html>
