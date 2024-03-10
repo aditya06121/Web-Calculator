@@ -84,3 +84,6 @@ button{
     margin: 6%;
     text-align: center;
 }
+button:hover{
+    background-color: hsl(26, 35%, 91%);
+}

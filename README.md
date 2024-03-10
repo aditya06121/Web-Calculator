@@ -2,6 +2,8 @@
 
 This is a simple web-based calculator project created by Aditya Raj. The calculator is designed using HTML, CSS, and JavaScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+![Screenshot](./assets/images/ss.jpg)
+
 ## Features
 
 - Simple and intuitive user interface.
@@ -10,11 +12,7 @@ This is a simple web-based calculator project created by Aditya Raj. The calcula
 
 ## Usage
 
-To use the calculator, simply open the `index.html` file in your web browser. Input your mathematical expressions using the provided buttons or directly via keyboard. Press the "=" button to evaluate the expression and see the result displayed on the screen.
-
-## Future Improvements
-
-In the future, I plan to enhance this project by adding server-side functionalities using Node.js for mathematical computation and integrating a SQL database for storing user data. This will enable features such as saving calculation history, user authentication, and personalized settings.
+To use the calculator, simply open the `index.html` file in your web browser. Input your mathematical expressions using the provided buttons or directly via keyboard. Press the 'Enter' key to evaluate the expression and see the result displayed on the screen.
 
 ## Contributions
 
